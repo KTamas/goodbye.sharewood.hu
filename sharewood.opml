@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Sharewood.hu feeds</title>
+  </head>
+  <body>
+    <outline title="Sharewood.hu feeds" text="Sharewood.hu feeds">
+      <outline text="AngelVia" title="AngelVia" type="rss" xmlUrl="http://angelvia.posterous.com/rss.xml" htmlUrl="http://angelvia.posterous.com/"/>
+      <outline text="Caracalla" title="Caracalla" type="rss" xmlUrl="http://feeds.feedburner.com/caracallashare" htmlUrl="http://caracallashare.tumblr.com/"/>
+      <outline text="DragonWeb" title="DragonWeb" type="rss" xmlUrl="http://telex.dragonweb.hu/rss.xml" htmlUrl="http://telex.dragonweb.hu/"/>
+      <outline text="Geeklány" title="Geeklány" type="rss" xmlUrl="http://sharing.varsanyi.hu/feed/" htmlUrl="http://sharing.varsanyi.hu/"/>
+      <outline text="GRJ" title="GRJ" type="rss" xmlUrl="http://www.grj.hu/feed/" htmlUrl="http://www.grj.hu/"/>
+      <outline text="Kelt" title="Kelt" type="rss" xmlUrl="http://kelt.newsblur.com/social/rss/25366/kelt" htmlUrl="http://kelt.newsblur.com/"/>
+      <outline text="Komavary" title="Komavary" type="rss" xmlUrl="http://komavary.posterous.com/rss.xml" htmlUrl="http://komavary.posterous.com/"/>
+      <outline text="KTamas" title="KTamas" type="rss" xmlUrl="http://ktamas.newsblur.com/social/rss/3624/ktamas" htmlUrl="http://ktamas.blurblog.com/"/>
+      <outline text="lica" title="lica" type="rss" xmlUrl="http://lica.newsblur.com/social/rss/114353/lica" htmlUrl="http://lica.newsblur.com/"/>
+      <outline text="magyardavid" title="magyardavid" type="rss" xmlUrl="http://magyardavid.newsblur.com/social/rss/110112/magyardavid" htmlUrl="http://magyardavid.newsblur.com/"/>
+      <outline text="Moshi" title="Moshi" type="rss" xmlUrl="http://theoldreader.com/profile/514196b6bd927988c70000eb.rss" htmlUrl="http://theoldreader.com/profile/514196b6bd927988c70000eb.rss"/>
+      <outline text="Mr. G" title="Mr. G" type="rss" xmlUrl="http://konyortelenshare.wordpress.com/feed/" htmlUrl="http://konyortelenshare.wordpress.com/"/>
+      <outline text="psztrnk" title="psztrnk" type="rss" xmlUrl="http://theoldreader.com/profile/c4aa0c8865f72985d763d9d9.rss" htmlUrl="http://theoldreader.com/profile/c4aa0c8865f72985d763d9d9"/>
+      <outline text="rszaloki" title="rszaloki" type="rss" xmlUrl="http://rszaloki.newsblur.com/social/rss/82681/rszaloki" htmlUrl="http://rszaloki.newsblur.com"/>
+      <outline text="SeSam" title="SeSam" type="rss" xmlUrl="http://sesam.posterous.com/rss.xml" htmlUrl="http://sesam.posterous.com/"/>
+      <outline text="Sharewood Gépház" title="Sharewood Gépház" type="rss" xmlUrl="http://sharewoodgephaz.tumblr.com/rss" htmlUrl="http://sharewoodgephaz.tumblr.com"/>
+      <outline text="syntaxerror13" title="syntaxerror13" type="rss" xmlUrl="http://syntaxerror13.newsblur.com/social/rss/137372/syntaxerror13" htmlUrl="http://syntaxerror13.newsblur.com/"/>
+      <outline text="Takashi Senko" title="Takashi Senko" type="rss" xmlUrl="http://osztom.szemmertek.hu/rss.xml" htmlUrl="http://osztom.szemmertek.hu/"/>
+      <outline text="Zhaoman" title="Zhaoman" type="rss" xmlUrl="http://www.diigo.com/rss/list?u_name=Zhaoman&amp;uri=shared-items" htmlUrl="http://www.diigo.com/list/zhaoman/shared-items"/>
+      <outline text="Zsoltika" title="Zsoltika" type="rss" xmlUrl="http://hiperlink.newsblur.com/social/rss/24035/hiperlink" htmlUrl="http://hiperlink.newsblur.com/"/>
+    </outline>
+  </body>
+</opml>
